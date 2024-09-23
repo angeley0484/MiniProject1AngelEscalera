@@ -41,7 +41,8 @@ command to run if program contains helper info
 
 Contributors names and contact info
 
-ex. Angel Escalera
+Angel Escalera
+Jason Zeller
 
 ## Acknowledgments
 
