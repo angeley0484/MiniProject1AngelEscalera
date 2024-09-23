@@ -47,5 +47,6 @@ for ticker in mytickers:
         plt.axis((10, 1, min_price, max_price ))
         plt.title(f"{ticker} Last 10 Closing Prices")
         plt.savefig(f"charts/{ticker}.png")
+
     else:
         print(f"Failed to download 10 days of data. There are {len(last10days)} days.")
